@@ -1,4 +1,4 @@
-#  End-to-End Customer Churn Analysis and Prediction — A Data Science Story
+# 💖 End-to-End Customer Churn Prediction — A Data Science Story
 
 > _"Numbers become powerful when they whisper the truth about people."_  
 
@@ -7,14 +7,14 @@ Using real Telco data, I built an explainable machine learning system to predict
 
 ---
 
-##  Project Overview
+## 🌍 Project Overview
 - **Objective:** Predict which customers are likely to churn.
 - **Dataset:** Telco Customer Churn Dataset (public Kaggle data)
 - **Goal:** Blend analytics + machine learning + business understanding.
 
 ---
 
-##  Workflow
+## 🧠 Workflow
 | Step | Description |
 |------|--------------|
 | **1. EDA** | Explored tenure, contracts, and charges to identify churn drivers |
@@ -27,18 +27,18 @@ Using real Telco data, I built an explainable machine learning system to predict
 
 ---
 
-##  Key Visuals
+## 📊 Key Visuals
 
-###  Churn Distribution
+### 🌀 Churn Distribution
 ![Churn Distribution](assets/churn_dist.png)
 
-###  Contract Type vs Churn
+### 💡 Contract Type vs Churn
 ![Contract vs Churn](assets/contract_vs_churn.png)
 
-###  ROC Curve Comparison
+### ❤️ ROC Curve Comparison
 ![ROC Curve](assets/roc_curve.png)
 
-###  SHAP Explainability
+### 🔍 SHAP Explainability
 ![SHAP Plot](assets/shap_plot.png)
 
 ---
@@ -83,6 +83,6 @@ Data science is not about algorithms; it’s about **empathy, understanding, and
 
 ## 🧾 Author
 **Naman Bansal**  
-📫 Reach me on [LinkedIn](#) or [GitHub](#)  
+📫 Reach me on [LinkedIn](#www.linkedin.com/in/naman-bansal-01969a325)  
 
 ---
